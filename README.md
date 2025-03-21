@@ -3,7 +3,7 @@
 
 This repository presents a time series forecasting project using ARIMA and Seasonal ARIMA models on monthly data. The methodology includes seasonality detection, detrending, stationarity testing, and residual analysis.
 
-이 저장소는 월별 시계열 데이터를 기반으로 ARIMA 및 Seasonal ARIMA 모델을 사용한 예측 프로젝트를 담고 있습니다. 계절성 제거, 추세 제거, 정상성 테스트, 잔차 분석 등의 과정을 포함합니다.
+이 프로젝트는 월별 시계열 데이터를 기반으로 ARIMA 및 Seasonal ARIMA 모델을 사용한 예측 프로젝트를 담고 있습니다. 계절성 제거, 추세 제거, 정상성 테스트, 잔차 분석 등의 과정을 포함합니다.
 
 ---
 
